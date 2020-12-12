@@ -15,7 +15,7 @@ Subsequently we train ES model according to combinations of trend and seasonal c
 In second part, we train ARIMA model based on FTSE index (see FTSEdata_31324878.xls)and K54D respectively throughout detailed model selection visually and automatically. 
 And the model performance is also compared to ES models.
 
-In third part, a ensemble model blended with Linear Regression and ARIMA model is used so as to forecast FTSE based on all other indicator features.
+In third part, an ensemble model blended with Linear Regression and ARIMA model is used so as to forecast FTSE based on all other indicator features.
 
 For all details, please read TechnicalReport_31324878.pdf. The python file names are named by model_data_method, so that you can refer it to obtain corresponding results presented in each section of the report.
 
